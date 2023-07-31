@@ -1,0 +1,1 @@
+var posts=["2023/07/31/hello-world/","2023/07/31/Github上的神器-—-smsboom，低调使用🔇/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
